@@ -235,11 +235,9 @@
         <!-- Optionally, you can add icons to the links -->
         <li class="active"><a href="#"><i class="fa fa-link"></i> <span>Link</span></a></li>
         <li><a href="#"><i class="fa fa-link"></i> <span>Another Link</span></a></li>
-<<<<<<< HEAD
-        <li><a href="#"><i class="fa fa-link"></i> <span>Clientes 2</span></a></li>
-=======
-        <li><a href="#"><i class="fa fa-link"></i> <span>Another Link 3</span></a></li>
->>>>>>> clienteV01
+
+        <li><a href="#"><i class="fa fa-link"></i> <span>Another Link 3 Clientes 2</span></a></li>
+
         <li class="treeview">
           <a href="#"><i class="fa fa-link"></i> <span>Multilevel</span> <i class="fa fa-angle-left pull-right"></i></a>
           <ul class="treeview-menu">
