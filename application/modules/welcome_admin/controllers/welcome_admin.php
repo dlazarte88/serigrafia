@@ -6,6 +6,8 @@ class Welcome_admin extends MY_Controller{
 	}
 
 	function call_admin_template($data = NULL){
+		$this->load->view('templates/header');
 		$this->load->view('admin_template_v', $data);
+		$this->load->view('templates/footer');
 	}
 }
